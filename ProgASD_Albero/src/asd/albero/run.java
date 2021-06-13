@@ -1,5 +1,5 @@
 /**
- * @author Jacob Angeles [matricola: 7024541]
+ * @author Jacob Angeles
  */
 
 package asd.albero;
